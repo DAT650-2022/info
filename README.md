@@ -46,11 +46,11 @@ You can find here:
 |Thu 22.Sep | Lecture | In person | Leander | Project | |
 |Wed 28.Sep | Lecture | In person | Leander | Project | |
 |Wed 28.Sep | Lab | In person | Arian | Project |  |
-|Thu 29.Sep | Lecture | In person | Leander | Project | |
+|Thu 29.Sep | Lecture | In person | Leander | Project presentations | |
 |Wed 05.Oct | Lecture | In person | Leander | Project | |
 |Wed 05.Oct | Lab | In person | Arian | Project |  |
 |Thu 06.Oct | Lecture | In person | Leander | Project | |
-|Wed 12.Oct | Lecture | In person | Arian & Leander | Project presentations | |
+|Wed 12.Oct | Lecture | In person | Arian & Leander | Project  | |
 |Wed 12.Oct | Lab | In person | Arian | Project |  |
 |Thu 13.Oct | Lecture | In person | Leander | Ethereum | Chapter 9.1, [slides](slides/Lecture-12.pdf)  |
 |Wed 19.Oct | Lecture | In person | Leander | Learn Solidity | [crypto-zombies](https://cryptozombies.io/en/course) |
