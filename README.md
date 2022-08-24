@@ -33,7 +33,7 @@ You can find here:
 |Wed 24.Aug | Lab | In person | Arian | Lab 1 |  |
 |Thu 25.Aug | Lecture | In person | Leander | Transactions and UTXO | [Script](script.pdf) Chapter 2, [Princton book](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf) Chapter 1.4 and 1.5 |
 |Wed 31.Aug | Lecture | In person | Leander | Proof of Work | [Script](script.pdf) Chapter 3.1 - 3.3, Videos [11](https://youtu.be/ehO-TKhuAro) and [13](https://youtu.be/B7O5yDY4_N0)  | 
-|Wed 31.Aug | Lab | D-225 | Arian |  Lab 1 |  |
+|Wed 31.Aug | Lab | In person | Arian |  Lab 1 |  |
 |Thu 01.Sep | Lecture | In person | Leander | Proof of Work - Forks | Chapter 3.4 [slides](slides/Lecture-4.pdf) |
 |Wed 07.Sep | Lecture | In person | Leander | Selfish mining | Chapter 3.5 [slides](slides/Lecture-5.pdf) |
 |Wed 07.Sep | Lab | In person | Arian |  Lab 2 |  |
