@@ -22,7 +22,7 @@ The project topics are as follows:
 
 | Project          | Paper title                                                                                                                                    | Subject                   |Group|
 | ---------------- | -----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|---|
-| 1                | [Block Double-Submission Attack: Block Withholding Can Be Self-Destructive](https://arxiv.org/pdf/2208.05425.pdf)                              |Proof of Work, Mining pools| |
+| 1                | [Block Double-Submission Attack: Block Withholding Can Be Self-Destructive](https://arxiv.org/pdf/2208.05425.pdf)                              |Proof of Work, Mining pools|Adnan & Oddvar|
 | 2                | [Analyzing the Benefit of Selfish Mining with Multiple Players](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9284674)                  |Selfish mining             |Brage & Fredrik|
 | 3                | [Selfish Mining in Ethereum](https://ieeexplore.ieee.org/abstract/document/8884917)                                                            |Selfish mining, Ethereum   | |
 | 4                | [The Performance of Selfish Mining in GHOST ](http://www.tcse.cn/~wsdou/papers/2021-trustcom-ghost.pdf)                                        |Selfish mining, GHOST      | |
