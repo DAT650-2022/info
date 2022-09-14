@@ -20,18 +20,18 @@ For each project you have to
 
 The project topics are as follows: 
 
-| Project          | Paper title                                                                                                                                    | Subject                   |
+| Project          | Paper title                                                                                                                                    | Subject                   |Group
 | ---------------- | -----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
-| 1                | [Block Double-Submission Attack: Block Withholding Can Be Self-Destructive](https://arxiv.org/pdf/2208.05425.pdf)                              |Proof of Work, Mining pools|
-| 2                | [Analyzing the Benefit of Selfish Mining with Multiple Players](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9284674)                  |Selfish mining             |
-| 3                | [Selfish Mining in Ethereum](https://ieeexplore.ieee.org/abstract/document/8884917)                                                            |Selfish mining, Ethereum   |
-| 4                | [The Performance of Selfish Mining in GHOST ](http://www.tcse.cn/~wsdou/papers/2021-trustcom-ghost.pdf)                                        |Selfish mining, GHOST      |
-| 5                | [Uncle Maker: (Time)Stamping Out The Competition in Ethereum ](https://eprint.iacr.org/2022/1020.pdf)                                          |Uncles, Ethereum           |
-| 6                | [Monoxide: Scale out Blockchains with Asynchronous Consensus Zones ](https://www.usenix.org/system/files/nsdi19-wang-jiaping.pdf)              |Sharding                   |
+| 1                | [Block Double-Submission Attack: Block Withholding Can Be Self-Destructive](https://arxiv.org/pdf/2208.05425.pdf)                              |Proof of Work, Mining pools| |
+| 2                | [Analyzing the Benefit of Selfish Mining with Multiple Players](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9284674)                  |Selfish mining             |Brage & Fredrik|
+| 3                | [Selfish Mining in Ethereum](https://ieeexplore.ieee.org/abstract/document/8884917)                                                            |Selfish mining, Ethereum   | |
+| 4                | [The Performance of Selfish Mining in GHOST ](http://www.tcse.cn/~wsdou/papers/2021-trustcom-ghost.pdf)                                        |Selfish mining, GHOST      | |
+| 5                | [Uncle Maker: (Time)Stamping Out The Competition in Ethereum ](https://eprint.iacr.org/2022/1020.pdf)                                          |Uncles, Ethereum           | |
+| 6                | [Monoxide: Scale out Blockchains with Asynchronous Consensus Zones ](https://www.usenix.org/system/files/nsdi19-wang-jiaping.pdf)              |Sharding                   | |
 | 7                | [Bitcoin-NG: A Scalable Blockchain Protocol](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-eyal.pdf)                      |Bitcoing-NG                |                   |
-| 8                | [Do the Rich Get Richer? Fairness Analysis for Blockchain Incentives](https://dl.acm.org/doi/pdf/10.1145/3448016.3457285)                      |Proof of Stake             |
-| 9                | [On Nxt Proof of Stake Algorithm: A Simulation Study](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9837462)                            |Proof of Stake             |
-| 10               | [A fair selection protocol for committee-based permissionless blockchains](https://www.sciencedirect.com/science/article/pii/S0167404820300055)|Committee-based blockchains|
+| 8                | [Do the Rich Get Richer? Fairness Analysis for Blockchain Incentives](https://dl.acm.org/doi/pdf/10.1145/3448016.3457285)                      |Proof of Stake             | |
+| 9                | [On Nxt Proof of Stake Algorithm: A Simulation Study](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9837462)                            |Proof of Stake             | |
+| 10               | [A fair selection protocol for committee-based permissionless blockchains](https://www.sciencedirect.com/science/article/pii/S0167404820300055)|Committee-based blockchains| |
 
 If you have ideas for a different project, please talk to us.
 
