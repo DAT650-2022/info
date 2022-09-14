@@ -31,7 +31,7 @@ The project topics are as follows:
 | 7                | [Bitcoin-NG: A Scalable Blockchain Protocol](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-eyal.pdf)                      |Bitcoing-NG                |                   |
 | 8                | [Do the Rich Get Richer? Fairness Analysis for Blockchain Incentives](https://dl.acm.org/doi/pdf/10.1145/3448016.3457285)                      |Proof of Stake             |Stephan & Xiaoyan|
 | 9                | [On Nxt Proof of Stake Algorithm: A Simulation Study](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9837462)                            |Proof of Stake             | |
-| 10               | [A fair selection protocol for committee-based permissionless blockchains](https://www.sciencedirect.com/science/article/pii/S0167404820300055)|Committee-based blockchains| |
+| 10               | [A fair selection protocol for committee-based permissionless blockchains](https://www.sciencedirect.com/science/article/pii/S0167404820300055)|Committee-based blockchains|Abolfazl and Alistar|
 
 If you have ideas for a different project, please talk to us.
 
