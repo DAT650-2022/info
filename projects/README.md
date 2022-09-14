@@ -20,8 +20,8 @@ For each project you have to
 
 The project topics are as follows: 
 
-| Project          | Paper title                                                                                                                                    | Subject                   |Group
-| ---------------- | -----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
+| Project          | Paper title                                                                                                                                    | Subject                   |Group|
+| ---------------- | -----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|---|
 | 1                | [Block Double-Submission Attack: Block Withholding Can Be Self-Destructive](https://arxiv.org/pdf/2208.05425.pdf)                              |Proof of Work, Mining pools| |
 | 2                | [Analyzing the Benefit of Selfish Mining with Multiple Players](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9284674)                  |Selfish mining             |Brage & Fredrik|
 | 3                | [Selfish Mining in Ethereum](https://ieeexplore.ieee.org/abstract/document/8884917)                                                            |Selfish mining, Ethereum   | |
