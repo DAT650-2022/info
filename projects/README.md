@@ -24,7 +24,7 @@ The project topics are as follows:
 | ---------------- | -----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|---|
 | 1                | [Block Double-Submission Attack: Block Withholding Can Be Self-Destructive](https://arxiv.org/pdf/2208.05425.pdf)                              |Proof of Work, Mining pools|Adnan & Oddvar|
 | 2                | [Analyzing the Benefit of Selfish Mining with Multiple Players](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9284674)                  |Selfish mining             |Brage & Fredrik|
-| 3                | [Selfish Mining in Ethereum](https://ieeexplore.ieee.org/abstract/document/8884917)                                                            |Selfish mining, Ethereum   | |
+| 3                | [Selfish Mining in Ethereum](https://ieeexplore.ieee.org/abstract/document/8884917)                                                            |Selfish mining, Ethereum   |Erik & Kristian|
 | 4                | [The Performance of Selfish Mining in GHOST ](http://www.tcse.cn/~wsdou/papers/2021-trustcom-ghost.pdf)                                        |Selfish mining, GHOST      |Mehdi and Salman|
 | 5                | [Uncle Maker: (Time)Stamping Out The Competition in Ethereum ](https://eprint.iacr.org/2022/1020.pdf)                                          |Uncles, Ethereum           | |
 | 6                | [Monoxide: Scale out Blockchains with Asynchronous Consensus Zones ](https://www.usenix.org/system/files/nsdi19-wang-jiaping.pdf)              |Sharding                   | |
