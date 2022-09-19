@@ -28,7 +28,7 @@ The project topics are as follows:
 | 4                | [The Performance of Selfish Mining in GHOST ](http://www.tcse.cn/~wsdou/papers/2021-trustcom-ghost.pdf)                                        |Selfish mining, GHOST      |Mehdi and Salman|
 | 5                | [Uncle Maker: (Time)Stamping Out The Competition in Ethereum ](https://eprint.iacr.org/2022/1020.pdf)                                          |Uncles, Ethereum           | |
 | 6                | [Monoxide: Scale out Blockchains with Asynchronous Consensus Zones ](https://www.usenix.org/system/files/nsdi19-wang-jiaping.pdf)              |Sharding                   | |
-| 7                | [Bitcoin-NG: A Scalable Blockchain Protocol](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-eyal.pdf)                      |Bitcoing-NG                |                   |
+| 7                | [Bitcoin-NG: A Scalable Blockchain Protocol](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-eyal.pdf)                      |Bitcoing-NG                |Sarezh|
 | 8                | [Do the Rich Get Richer? Fairness Analysis for Blockchain Incentives](https://dl.acm.org/doi/pdf/10.1145/3448016.3457285)                      |Proof of Stake             |Stephan & Xiaoyan|
 | 9                | [On Nxt Proof of Stake Algorithm: A Simulation Study](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9837462)                            |Proof of Stake             | |
 | 10               | [A fair selection protocol for committee-based permissionless blockchains](https://www.sciencedirect.com/science/article/pii/S0167404820300055)|Committee-based blockchains|Abolfazl and Alistar|
