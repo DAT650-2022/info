@@ -71,5 +71,5 @@ You can find here:
 
 ## Lab
 
-Assignments can be found in the [assignments repo](https://github.com/dat650-2021/assignments).
+Assignments can be found in the [assignments repo](https://github.com/dat650-2022/assignments).
 The repository is accessible only for registered students.
