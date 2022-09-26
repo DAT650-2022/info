@@ -29,20 +29,20 @@ You can find here:
 
  Day | What | Format | Lecture | Topic | Material |
 |-----|------|--------|-----------|-------|----------|
-|Wed 24.Aug | Lecture | In person | Leander | Hashes and hash chains and merkle trees | [Script](script.pdf) Chapter 1, Videos [1](https://www.youtube.com/watch?v=TwkrJtTL-wc&list=PLnD_TI73e88dsiKwQ3XDqXPBMwQjVt_TB&index=2), [2](https://www.youtube.com/watch?v=CIvdtlQPUf4&list=PLnD_TI73e88dsiKwQ3XDqXPBMwQjVt_TB&index=3), [3](https://www.youtube.com/watch?v=DjZZz70BJ_o&list=PLnD_TI73e88dsiKwQ3XDqXPBMwQjVt_TB&index=4), also videos 7-10 from the same series.|
+|Wed 24.Aug | Lecture | In person | Leander | Hashes and hash chains and merkle trees | [slides](slides/blockchain1hashchain.pdf), [Script](script.pdf) Chapter 1, Videos [1](https://www.youtube.com/watch?v=TwkrJtTL-wc&list=PLnD_TI73e88dsiKwQ3XDqXPBMwQjVt_TB&index=2), [2](https://www.youtube.com/watch?v=CIvdtlQPUf4&list=PLnD_TI73e88dsiKwQ3XDqXPBMwQjVt_TB&index=3), [3](https://www.youtube.com/watch?v=DjZZz70BJ_o&list=PLnD_TI73e88dsiKwQ3XDqXPBMwQjVt_TB&index=4), also videos 7-10 from the same series.|
 |Wed 24.Aug | Lab | In person | Arian | Lab 1 |  |
-|Thu 25.Aug | Lecture | In person | Leander | Transactions and UTXO | [Script](script.pdf) Chapter 2, [Princton book](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf) Chapter 1.4 and 1.5 |
-|Wed 31.Aug | Lecture | In person | Leander | Proof of Work | [Script](script.pdf) Chapter 3.1 - 3.3, Videos [11](https://youtu.be/ehO-TKhuAro) and [13](https://youtu.be/B7O5yDY4_N0)  | 
+|Thu 25.Aug | Lecture | In person | Leander | Transactions and UTXO | [slides](slides/blockchain2utxo.pdf), [Script](script.pdf) Chapter 2, [Princton book](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf) Chapter 1.4 and 1.5 |
+|Wed 31.Aug | Lecture | In person | Leander | Proof of Work | [slides](slides/blockchain3pow.pdf), [Script](script.pdf) Chapter 3.1 - 3.3, Videos [11](https://youtu.be/ehO-TKhuAro) and [13](https://youtu.be/B7O5yDY4_N0)  | 
 |Wed 31.Aug | Lab | In person | Arian |  Lab 1 |  |
-|Thu 01.Sep | Lecture | In person | Leander | Proof of Work - Forks | Chapter 3.4 [slides](slides/Lecture-4.pdf) |
-|Wed 07.Sep | Lecture | In person | Leander | Selfish mining | Chapter 3.5 [slides](slides/Lecture-5.pdf) |
+|Thu 01.Sep | Lecture | In person | Leander | Proof of Work - Forks | Chapter 3.4 [slides](slides/blockchain4forks.pdf) |
+|Wed 07.Sep | Lecture | In person | Leander | Reparametrization | Chapter 3.5 [slides](slides/blockchain5reparametrization.pdf) |
 |Wed 07.Sep | Lab | In person | Arian |  Lab 2 |  |
-|Thu 08.Sep | Lecture | In person | Leander | Network attacks and hard and soft forks | Chapter 3.6 - 3.8, [slides](slides/Lecture-6.pdf) |
-|Wed 14.Sep | Lecture | In person | Leander | Alternative PoW and Scaling PoW (reparametrization) | Chapter 4 and 5.1,[slides](slides/Lecture-7.pdf), [Video](https://youtu.be/TipGy2bOVL4)  |
+|Thu 08.Sep | Lecture | canceled | Leander |  |
+|Wed 14.Sep | Lecture | In person | Leander | Alternative PoW and PoS | Chapter 4 and 5.1,[slides](slides/blockchain6pos.pdf), [Video](https://youtu.be/TipGy2bOVL4)  |
 |Wed 14.Sep | Lab | D-225 | Arian |  Lab 2 |  |
-|Thu 15.Sep | Lecture | In person | Leander | Bitcoin-NG and Sharding | Chapter 5.2 and 5.3, [Bitcoin-NG](https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/eyal) [Sharding](https://www.usenix.org/conference/nsdi19/presentation/wang-jiaping), [slides](slides/Lecture-8.pdf) |
-|Wed 21.Sep | Lecture | In person | Leander | Proof of Stake | |
-|Wed 21.Sep | Lab | In person | Arian | Project |  |
+|Thu 15.Sep | Lecture | In person | Leander | Project |
+|Wed 21.Sep | Lecture | In person | Leander | Bitcoin-NG and Sharding | Chapter 5.2 and 5.3, [Bitcoin-NG](https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/eyal) [Sharding](https://www.usenix.org/conference/nsdi19/presentation/wang-jiaping), [slides](slides/blockchain7ngandsharding.pdf) |
+|Wed 21.Sep | Lab | In person | Arian | Lab2 |  |
 |Thu 22.Sep | Lecture | In person | Leander | Project | |
 |Wed 28.Sep | Lecture | In person | Leander | Project | |
 |Wed 28.Sep | Lab | In person | Arian | Project |  |
