@@ -52,14 +52,14 @@ You can find here:
 |Thu 06.Oct | Lecture | In person | Leander | Project | |
 |Wed 12.Oct | Lecture | In person | Arian & Leander | Project  | |
 |Wed 12.Oct | Lab | In person | Arian | Project |  |
-|Thu 13.Oct | Lecture | In person | Leander | Ethereum | Chapter 9.1, [slides](slides/Lecture-12.pdf)  |
-|Wed 19.Oct | Lecture | In person | Leander | Learn Solidity | [crypto-zombies](https://cryptozombies.io/en/course) |
+|Thu 13.Oct | Lecture | In person | Leander | Project |   |
+|Wed 19.Oct | Lecture | In person | Leander | Ethereum| [slides](slides/smartContracts.pdf), [reading](https://arxiv.org/pdf/2207.02264.pdf) |
 |Wed 19.Oct | Lab | In person | Arian | Lab 3 |  |
-|Thu 20.Oct | Lecture | In person | Leander | Smart Contracts | [example](solidity/solidityDevelopment.md) |
+|Thu 20.Oct | Lecture | In person | Leander | Smart Contracts | [example](solidity/solidityDevelopment.md), Chapter 9.1, ,[crypto-zombies](https://cryptozombies.io/en/course) |
 |Wed 26.Oct | Lecture | In person | Leander | Smart Contract security | [slides](slides/SmartContractSecurity.pdf), [reading](https://github.com/ethereumbook/ethereumbook/blob/develop/09smart-contracts-security.asciidoc), [examples](solidity/security) |
 |Wed 26.Oct | Lab | In person | Arian | Lab 3 |  |
-|Thu 27.Oct | Lecture | In person | Leander | Oracles and Off chain networks| [slides](slides/Lecture-14.pdf) |
-|Wed 02.Nov | Lecture | In person | Leander | Stellar and System models | Chapter 6, [slides](slides/Lecture-9.pdf) |
+|Thu 27.Oct | Lecture | In person | Leander | Oracles and Off chain networks| [slides](slides/blockchain9offchain.pdf) |
+|Wed 02.Nov | Lecture | In person | Leander | Stellar and System models | Chapter 6, [slides](slides/blockchain10models.pdf) |
 |Wed 02.Nov | Lab | In person | Arian | Lab 4 |  |
 |Thu 03.Nov | Lecture | In person | Leander | BFT 1 | Chapter 7.1 & 7.2, [slides](slides/Lecture-10.pdf) |
 |Wed 09.Nov | Lecture | In person | Leander | Hybrid | Chapter 8, [slides](slides/Lecture-11.pdf) |
